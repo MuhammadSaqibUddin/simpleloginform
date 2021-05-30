@@ -1,6 +1,6 @@
 # login_page
 
-A new Flutter project.
+This is simple login form UI
 
 ## Getting Started
 
